@@ -6,6 +6,6 @@ echo Création du commit...
 git commit -m "Profile Picture Updated"
 
 echo Envoi sur GitHub...
-git push
+git push --force
 
 pause
